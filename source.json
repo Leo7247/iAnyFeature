@@ -46,6 +46,29 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Activity Moniter",
+      "bundleIdentifier": "com.leolam.Activity-Moniter",
+      "developerName": "iAnyFeature",
+      "subtitle": "Imagine Bringing A Enhanced Version Of macOS’s Activity Moniter To iOS",
+      "localizedDescription": "Imagine Bringing A Enhanced Version Of macOS’s Activity Moniter To iOS — ITS POSSIBLE!\nWhat we are better than others :\n- FREE TO CLEAN RAM\n- MOST FEATURES ARE FREE\n- UI Look Of The Mac One\n- Selecting UI Themes (Will Be added In Next Update!\n- Also Much More…",
+      "iconURL": "https://i.imgur.com/1xydEuR.jpeg",
+      "versions": [
+        {
+          "version": "10.14",
+          "buildVersion": "1040",
+          "date": "2026-09-28T08:55:31Z",
+          "downloadURL": "https://raw.githubusercontent.com/Leo7247/iAnyFeature/refs/heads/main/Activity%20Moniter.ipa",
+          "size": 23214026,
+          "minOSVersion": "26.1",
+          "localizedDescription": "Something Big In This Update :\n- Now It Have Background Ram Cleaning!\n- Fixed Various Bugs."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ]
 }
